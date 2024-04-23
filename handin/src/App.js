@@ -5,7 +5,9 @@ function App() {
   return (
     <div className="App">
       <AnimatedGradient>
-        <h1>Partiful!</h1>
+        <div class = "transbox">
+          <h1>Partiful!</h1>
+        </div>
       </AnimatedGradient>
     </div>
   );

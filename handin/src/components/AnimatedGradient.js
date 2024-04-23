@@ -1,4 +1,3 @@
-// src/components/AnimatedGradient.js
 import React from 'react';
 import './AnimatedGradient.css';
 
