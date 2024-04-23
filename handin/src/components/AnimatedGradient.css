@@ -1,0 +1,23 @@
+/* src/components/AnimatedGradient.css */
+@keyframes gradientAnimation {
+  0% {
+    background-position: 0% 0%;
+  }
+  50% {
+    background-position: 100% 100%;
+  }
+  100% {
+    background-position: 0% 0%;
+  }
+}
+
+.animated-gradient {
+  height: 100vh; /* Full height of the viewport */
+  width: 100vw; /* Full width of the viewport */
+  background: linear-gradient(120deg, #93276b, #616f95, #76289a,#09463c); /* Define darker gradient colors */
+  background-size: 200% 200%; /* Allows the gradient to move across the defined area */
+  animation: gradientAnimation 30s cubic-bezier(0.42, 0, 0.58, 1) infinite; /* Smooth cubic-bezier animation */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
