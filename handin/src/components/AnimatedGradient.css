@@ -11,12 +11,10 @@
 }
 
 .animated-gradient {
-  height: 100vh;
   width: 100vw; 
   background: linear-gradient(120deg, #792058, #434c67, #632181,#073830);
   background-size: 200% 200%; 
   animation: gradientAnimation 30s cubic-bezier(0.42, 0, 0.58, 1) infinite;
   display: flex;
   justify-content: center;
-  align-items: center;
 }
