@@ -40,7 +40,7 @@ function App() {
               Our iterative design process for this client can be outlined by the following steps: 
               <ul>
                 <li>
-                  Reading the breif from the client
+                  Reading the brief from the client
                 </li>
                 <li>
                   Asking clarifying questions to identify the core problems 
@@ -114,7 +114,7 @@ function App() {
             </div>
 
             <p>
-              We got some of our main inspiration from Netflix in its categorgial 
+              We got some of our main inspiration from Netflix in its categorial
               h-scroll with the ability to vertical scroll through different 
               categories. Additionally, we thought of adding some kind of social 
               aspect, similar to stories on Instagram or Snapchat, where users 
@@ -180,7 +180,7 @@ function App() {
                 />
               </div>
             <p>
-                We made the events page the starting page, also moving the naviagtion 
+                We made the events page the starting page, also moving the navigation 
                 bar to the top of the screen. We also chose to go with an Apple Wallet 
                 style of design to display invites and upcoming events, in order 
                 to display multiple events on a single page. We also kept the 
