@@ -15,7 +15,7 @@ function App() {
             <h2>What is Iterative Design?</h2>
             <p>
               Iterative design is the process of designing a prototype from start to finish, including critique and iteration based on feedback. 
-              As a team, Brandon Wu, Will Park, Kenneth Loui, and Kaitlyn Williams 
+              As a team, Brandon Wu, Will Park, Kenneth Liou, and Kaitlyn Williams 
               went through the iterative design process to redesign the homepage of our 
               client. 
               
